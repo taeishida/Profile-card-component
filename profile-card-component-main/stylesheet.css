@@ -15,7 +15,6 @@ body {
     font-size: 18px;
     font-family: "Kumbh Sans", sans-serif;
     font-weight: 400;
-    /*color: hsl(227, 10%, 46%);*/
 
     display: flex;
     flex-direction: column;
@@ -28,8 +27,6 @@ body {
     height: 100%;
     flex-direction: column;
     font-family: "Kumbh Sans", sans-serif;
-
-    
 }
 
 .card-top {
